@@ -1,1 +1,2 @@
-# TugasKB_SVM_Wine
+# Nurul Aliyah Dyah Sakhinah
+# F55121069
